@@ -1,0 +1,49 @@
+{
+    "name": "aapi.io",
+    "description": "aapi makes API programming and management easy by transforming the way developers find, connect to, and secure APIs.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28205-aapi-io.jpg",
+    "tags": [
+        "have api",
+        "no api definition",
+        "security"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/aapi-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "aapi.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28205-aapi-io.jpg",
+            "humanURL": "https:\/\/aapi.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aapi-io-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "support@aapi.io"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/aapi.io\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/AAPI_io"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/aapi.io"
+        }
+    ]
+}
